@@ -6,8 +6,8 @@ info:
   description: API para gestionar estudiantes usando Express.js
 
 servers:
-  - url: http://localhost:3000
-    description: Servidor local
+  - url: https://leonardo-guzman-pf-certi-backend-2026.onrender.com
+    description: Servidor Render
 
 paths:
   /api/students:
